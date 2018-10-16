@@ -1,4 +1,4 @@
-require time 
+import time 
 
 def countdown(num)
   until num == 0
